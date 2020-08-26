@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="settings">Settings</string>
+    <string name="orders">Orders</string>
+    <string name="others">others</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="collections">Collections</string>
+    <string name="inbox">Inbox</string>
+    <string name="support">Support</string>
+    <string name="aboutus">AboutUS</string>
+    <string name="yosefayman">YosefAYman</string>
+    <string name="aboayman">AboAyman</string>
+</resources>

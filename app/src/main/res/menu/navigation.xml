@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menuProfile"
+    android:icon="@drawable/profile"
+    android:title="@string/profile"
+    />
+    <item
+        android:id="@+id/menuNotifications"
+        android:icon="@drawable/notti"
+        android:title="@string/notifications"
+        />
+    <item
+        android:id="@+id/menuCollections"
+        android:icon="@drawable/collect"
+        android:title="@string/collections"
+        />
+    <item
+        android:id="@+id/menuInbox"
+        android:icon="@drawable/inbox"
+        android:title="@string/inbox"
+        />
+    <item
+        android:id="@+id/menuOrders"
+        android:icon="@drawable/order"
+        android:title="@string/orders"
+        />
+
+    <item
+        android:title="@string/others"
+      >
+        <menu>
+            <item
+                android:id="@+id/menuSettings"
+                android:icon="@drawable/settg"
+                android:title="@string/settings"
+                />
+
+            <item
+            android:id="@+id/menuSupport"
+            android:icon="@drawable/support"
+            android:title="@string/support"
+            />
+            اووه شو هادا كمان ههههه
+            <item
+                android:id="@+id/menuAboutUS"
+                android:icon="@drawable/about"
+                android:title="@string/aboutus"
+                />
+
+        </menu>
+
+    </item>
+
+
+</menu>
